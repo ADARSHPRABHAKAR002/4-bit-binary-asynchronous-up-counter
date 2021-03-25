@@ -42,4 +42,4 @@ module tb;
   end
 endmodule
 
-//The code here is to simulate 4 bit synchronous up counter in Xilinx Design tools or EDA playground software
+//The code here is to simulate 4 bit asynchronous up counter in Xilinx Design tools or EDA playground software
