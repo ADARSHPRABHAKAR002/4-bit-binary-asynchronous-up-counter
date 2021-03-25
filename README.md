@@ -16,7 +16,7 @@ endmodule
 
 // code for test bench in EDA playground software
 // Code your testbench here
-// or browse Examples
+
 module tb;
   reg rst,clk;
   wire [3:0] q;
