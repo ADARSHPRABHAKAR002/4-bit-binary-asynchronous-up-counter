@@ -1,4 +1,4 @@
-//# 4-bit-binary-synchronous-up-counter
+//# 4-bit-binary-asynchronous-up-counter
 // Code your design here
 
 module bcd(rst,clk,q);
